@@ -61,5 +61,5 @@ I’m a Computer Science student with a passion for software development and pro
 ## 🌐 Connect With Me!
 I'm always open to connecting with others who share my passion for innovation! 
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ayaanysf)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayaanysf)!
 
