@@ -8,7 +8,7 @@
 
 # Hey, I'm Ayaan Yousaf <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="34px">
 
-I’m a Computer Science student with a passion for software development and problem-solving. I’m currently building an AI-powered fitness app that combines my interests in technology and weightlifting. My goal right now is to contribute to open-source projects daily while sharpening my full-stack and AI/ML skills. 
+I’m a Computer Science student with a passion for software development and problem-solving. I’m currently building an AI-powered fitness app that combines my interests in machine learning with weightlifting. My goal right now is to contribute to open-source projects while sharpening my full-stack and AI/ML skills.
 
 --- 
 
@@ -42,7 +42,7 @@ I’m a Computer Science student with a passion for software development and pro
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="42" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="42" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="42" />
 </p>
 
 ### Tools
