@@ -16,7 +16,7 @@ I’m a Computer Science student with a passion for software development and pro
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayaanysf)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaanyousaf&theme=tokyonight&background=black)
+[![GitHub Streak](https://github-readme-streak-stats-jade-omega.vercel.app?user=ayaanyousaf&theme=ads-juicy-fresh&hide_border=true&border_radius=20&mode=weekly&card_width=600&card_height=220)](https://git.io/streak-stats)
 
 ---
 ## 🙋‍♂️ About Me
